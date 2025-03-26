@@ -18,21 +18,25 @@ To verify installation:
 node -v
 npm -v
 
-### ✅ Step 2  --> Open the github  link provided by Student  --> https://github.com/jay-mali/shoppyglobe.git
 
-Click the green "Code" button → Download ZIP
+### 🔧 STEP 2: Download the Project Files 
 
-Extract the ZIP to a folder on your computer (e.g., Desktop)
+     a. Go to github link provided by student -> https://github.com/jay-mali/shoppyglobe.git
+     b. Click the green “Code” button → Select “Download ZIP”
+     c. Extract the ZIP file anywhere (e.g., Desktop)
 
-####  📂 Step 3: Open the Project in Terminal
-Open a terminal or command prompt and navigate into the folder. Example:
 
-cd Desktop/shoppyglobe-main
+### 🔧 STEP 3:  Install Project Dependencies
+    a. Open Command Prompt (Windows) or Terminal (Mac)
+    b. Navigate to the extracted folder:
+    c. cd path-to-your-folder\shoppyglobe-main  (e.g., cd Desktop\shoppyglobe-main)
+    d. Run the following command to install required packages:->  npm install
 
-###  📦 Step 4: Install Project Dependencies
-Run the following command to install all required packages: -> npm install
-Start the app locally: using command --> npm start
+### 🔧 STEP 4: Run the App
+    a. Run the following command :-> npm start
 
-##### This will open your browser at: -> http://localhost:3000
+you will see a localhost link
+
+##### This will open your browser at: ->e.g -> http://localhost:3000
 
 
